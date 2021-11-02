@@ -168,7 +168,7 @@ Aρχικά παρατηρήσαμε ότι δεν έχει προστατευτ
 * ```http://error-404.csec.chatzi.org/modules/admin/delcours.php?c=TMA106&delete=yes``` : Διαγράφεται ένα μάθημα που δημιουργήσαμε.
 * ```http://error-404.csec.chatzi.org/modules/admin/unreguser.php?u=9&c=&doit=yes``` : Διαγράφεται ο χρήστης Τζένιφερ Άνιστον.
 
-### Remote File Injection (RFI)
+### Remote File Inclusion (RFI)
 Το συγκεκριμένο attack αναφέρεται προηγουμένως στον τρόπο που κάναμε deface το αντίπαλο site. 
 
 #### Team TrojanPonies:
