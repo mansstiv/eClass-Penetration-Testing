@@ -38,10 +38,8 @@ To site είναι διαθέσιμο στο http://localhost:8001/. Την πρ
 Εκφώνηση: https://ys13.chatzi.org/assets/projects/project1.pdf
 
 
-### Μέλη ομάδας
-
-- 1115201700040, Βασίλειος Καζάκος ([KazakosVas](https://github.com/KazakosVas))
-- 1115201700152, Εμμανουήλ Στιβακτάς ([mansstiv](https://github.com/mansstiv))
+### Team TrojanPonies:
+<i>by [KazakosVas](https://github.com/KazakosVas), [mansstiv](https://github.com/mansstiv) </i>
 
 
 ## Defense
@@ -171,7 +169,6 @@ Aρχικά παρατηρήσαμε ότι δεν έχει προστατευτ
 ### Remote File Inclusion (RFI)
 Το συγκεκριμένο attack αναφέρεται προηγουμένως στον τρόπο που κάναμε deface το αντίπαλο site. 
 
-#### Team TrojanPonies:
-<i>by [KazakosVas](https://github.com/KazakosVas), [mansstiv](https://github.com/mansstiv) </i>
+
 
 
