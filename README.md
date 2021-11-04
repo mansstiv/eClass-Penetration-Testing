@@ -33,9 +33,9 @@ To site είναι διαθέσιμο στο http://localhost:8001/. Την πρ
   - Όνομα Χρήστη του Διαχειριστή : `drunkadmin`
 
 
-## 2020 Project 1
+## Εκφώνηση
 
-Εκφώνηση: https://ys13.chatzi.org/assets/projects/project1.pdf
+https://ys13.chatzi.org/assets/projects/project1.pdf
 
 
 ### Team TrojanPonies:
